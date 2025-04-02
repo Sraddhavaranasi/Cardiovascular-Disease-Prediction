@@ -1,4 +1,4 @@
-```md
+
 # 🩺 Cardiovascular Disease Prediction  
 
 A Machine Learning project to predict the risk of cardiovascular disease using patient health data.
