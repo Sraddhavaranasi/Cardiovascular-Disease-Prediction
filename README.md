@@ -81,11 +81,6 @@ python app.py
 
 ---
 
-## 📸 UI Preview  
-![Cardio Prediction App](https://via.placeholder.com/600x300?text=App+Screenshot)  
-
----
-
 ## 📌 To-Do & Future Enhancements  
 ✅ Improve UI with Bootstrap  
 ✅ Add More Model Comparisons (Random Forest, XGBoost, etc.)  
@@ -111,6 +106,6 @@ To contribute:
 
 ## 📝 Author  
 **Sraddha Varanasi**  
-💼 GitHub: [your-github-profile](https://github.com/your-username)  
-📧 Email: your.email@example.com  
+💼 GitHub: https://github.com/Sraddhavaranasi
+📧 Email: sraddhavaranasi@gmail.com 
 ```
