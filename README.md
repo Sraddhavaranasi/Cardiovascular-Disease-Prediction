@@ -15,7 +15,7 @@ E:\Cardiovascular_disease_prediction\
 │── app.py                    # Flask API for prediction  
 │── Cardiovascular_model.ipynb # Model training notebook  
 │── SVM_model_accuracy_0.729857.joblib  # Trained SVM model  
-│── cardio_train.csv.zip       # Dataset (not included in Git)  
+│── cardio_train.csv.zip       # Dataset  
 │── templates\  
 │   └── index.html             # Frontend UI  
 │── static\                    # (For CSS/JS files if needed)  
